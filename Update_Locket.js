@@ -5042,6 +5042,78 @@ if (ua.includes("Locket") || true) {
         section: "🎨 Holiday Caption",
         items: [
           {
+            overlay_id: "caption:tinh_yeuu",
+            source: "remote",
+            caption: {
+              background: { colors: ["#e2475f", "#FF8E9E", "#a30e56"] },
+              icon: { data: "🥺", type: "emoji" },
+              max_lines: 1,
+              text: "Tình yêu của mình đâyy",
+              text_color: "#8C1938",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:miss_you_two",
+            source: "remote",
+            caption: {
+              background: { colors: ["#FF8FAB", "#FFC2D1", "#FFE5EC"] },
+              icon: { data: "❄️", type: "emoji" },
+              max_lines: 1,
+              text: "người tình mùa đôngg",
+              text_color: "#ee0d0d",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:miss_you_one",
+            source: "remote",
+            caption: {
+              background: { colors: ["#FF8FAB", "#FFC2D1", "#FFE5EC"] },
+              icon: { data: "🎀", type: "emoji" },
+              max_lines: 1,
+              text: "người tình bé nhỏ",
+              text_color: "#ee0d0d",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:yeu_nay",
+            source: "remote",
+            caption: {
+              background: { colors: ["#F2AFC6", "#F7C9D9", "#E5CFF4"] },
+              icon: { data: "💗", type: "emoji" },
+              max_lines: 1,
+              text: "Một ngày đáng nhớ!",
+              text_color: "#70445C",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:mai_mai",
+            source: "remote",
+            caption: {
+              background: { colors: ["#F2AFC6", "#F7C9D9", "#E5CFF4"] },
+              icon: { data: "💥", type: "emoji" },
+              max_lines: 1,
+              text: "Mãi mãi không quên",
+              text_color: "#e9dae2",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:chay_ngay",
+            source: "remote",
+            caption: {
+              background: { colors: ["#FFD166", "#FFE8A3", "#FFF3D0"] },
+              icon: { data: "💨", type: "emoji" },
+              max_lines: 1,
+              text: "Chạy ngayy đi ",
+              text_color: "#704510",
+              type: "static_content",
+            },
+          },
+          {
             overlay_id: "caption:halloween_2026",
             source: "remote",
             caption: {
@@ -5279,18 +5351,6 @@ if (ua.includes("Locket") || true) {
         section: "🎨 Tình yêu & Cơm chó 💕",
         items: [
           {
-            overlay_id: "caption:miss_you_two",
-            source: "remote",
-            caption: {
-              background: { colors: ["#4fd9ec", "#3fdcff", "#5fc8ff"] },
-              icon: { data: "❄️", type: "emoji" },
-              max_lines: 1,
-              text: "người tình mùa đôngg",
-              text_color: "#FFFFFFDB",
-              type: "static_content",
-            },
-          },
-          {
             overlay_id: "caption:em_nho_anhh",
             source: "remote",
             caption: {
@@ -5298,18 +5358,6 @@ if (ua.includes("Locket") || true) {
               icon: { data: "🥺", type: "emoji" },
               max_lines: 1,
               text: "em nhớ anhh",
-              text_color: "#8C1938",
-              type: "static_content",
-            },
-          },
-          {
-            overlay_id: "caption:tinh_yeuu",
-            source: "remote",
-            caption: {
-              background: { colors: ["#e2475f", "#FF8E9E", "#a30e56"] },
-              icon: { data: "🥺", type: "emoji" },
-              max_lines: 1,
-              text: "Tình yêu của mình đấyy",
               text_color: "#8C1938",
               type: "static_content",
             },
